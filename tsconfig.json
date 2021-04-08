@@ -4,5 +4,6 @@
     "checkJs": true,
     "noImplicitAny": true
   },
-  "include": ["./src/**/*"]
+  // "include": ["./todo/src/**/*"]
+  "include": ["./"]
 }
